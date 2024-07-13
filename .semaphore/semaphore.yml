@@ -10,4 +10,14 @@ blocks:
       jobs:
         - name: 'Job #1'
           commands:
+            - echo "Checking out..."
             - checkout
+      prologue:
+        commands:
+          - echo "Executing prologue..."
+  - name: 'Block #2'
+    task:
+      jobs:
+        - name: 'Job #1'
+          commands:
+            - echo "Executing another job..."
