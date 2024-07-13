@@ -1,0 +1,45 @@
+IF
+
+1. Write a function to check the Number is Positive or Negative
+2. Write a function to find the given number is even or odd
+3. Write a function to find the Character is Vowel or Consonant
+4. Write a function to check Whether a Character is Alphabet or Not
+5. Write a function to find the Largest of three Numbers
+
+Write a function to find the given number is prime or not
+
+1. Write a Java program to reverse a string without using the reverse method of Java’s String class
+   This exercise will teach you about how Java handles strings. First, you should create a class with a main method that accepts a string and then returns a string where the characters are in reverse order. But, you can’t use the reverse method of the String class because that’d be cheating.
+
+Even without doing that, there are at least three ways you can solve this exercise. Can you solve it in three different ways?
+
+2. Write a Java program to determine whether a number is prime or not
+   This program should accept an array of numbers. It should iterate through the array of numbers and determine if each is prime or not. Once it’s done processing, it should return only those numbers that are prime in an array.
+
+3. Write a phone number word decoder
+   Write a program in Java that’ll accept a phone number with letters and convert it to a phone number with only digits. For example, if you sent the program a phone number like 800888TEST, it should return (800) 888-8378.
+
+Note that it shouldn’t only convert letters to the digits they represent but also format the number correctly with parentheses and dashes. And, if you send the program an invalid number, it should throw an error.
+
+7. Write a method to determine consecutive numbers
+   Create a method in a Java class that accepts an array of numbers as a parameter. If the array of numbers can be rearranged so that they’re consecutive numbers where no number appears twice, return true. If this isn’t possible, return false. The array can be of any size.
+
+8. Reverse only the letters in a string
+   Write a method in Java that accepts a string as a parameter. This method should return a string that reverses the letters in the string sent as a parameter but keep all the numbers in order. For example, if you sent the method a parameter of “ez56d” then it should return “ed56z”.
+
+9. Write a Pig Latin translator
+   Pig Latin is a language or language game. Here are the steps with any word. First, move the first consonant or consonant cluster to the end of the word. Second, add “ay” to the end of the word. For example, the word “banana” would become “ananabay.”
+
+Write a method in Java that turns a string that contains words into the equivalent in Pig Latin.
+
+program to Display All Prime Numbers from 1 to N
+Java Program for factorial of a number
+Program to Print Right Triangle Star Pattern
+Java Program to Print Left Triangle Star Pattern
+Java Program to Print Pyramid Number Pattern
+Java Program to Print Diamond Shape Star Pattern
+
+Java Program to Generate Multiplication Table
+Java Program to Count Number of Digits in an Integer
+Java Program to Reverse a Number
+Java Program to Check Palindrome
